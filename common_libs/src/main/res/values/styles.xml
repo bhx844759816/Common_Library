@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="common_dialog">
+        <!--dialog背景得颜色-->
+        <attr name="bg_color" format="color" />
+        <!--dialog中分割线得颜色-->
+        <attr name="line_color" format="color" />
+        <!--dialog四个角得角度-->
+        <attr name="radius" format="dimension" />
+    </declare-styleable>
+</resources>
